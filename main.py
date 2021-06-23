@@ -42,7 +42,7 @@ def start_game():
                 attempts += 2
             elif int(guess) < random_number:
                 print("It's higher")
-                attempts += 1
+                attempts += 2
         except ValueError as err:
             print("Oh no!, that is not a valid value. Try again...")
             print("({})".format(err))
