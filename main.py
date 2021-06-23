@@ -13,13 +13,13 @@ def show_score():
 
 
 def nowa_funkcja():
-    print("Funkcja nowa");
+    print("Funkcja ssa");
 
 def nowa_funkcja2():
-    print("Funkcja nowa");
+    print("Funkcja domek   ");
 
 def nowa_funkcja3():
-    print("Funkcja nowa");
+    print("Funkcja cos");
 
 def nowa_funkcja4():
     print("Funkcja nowa");
