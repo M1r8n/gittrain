@@ -21,6 +21,9 @@ def nowa_funkcja2():
 def trzecia():
     print("Funkcja nowa");
 
+def piata():
+    print("1232132");
+
 def start_game():
     random_number = int(random.randint(1, 10))
     print("Hello traveler! Welcome to the game of guesses!")
