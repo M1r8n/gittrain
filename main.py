@@ -18,15 +18,6 @@ def nowa_funkcja():
 def nowa_funkcja2():
     print("Funkcja nowa");
 
-def trzecia():
-    print("Funkcja nowa");
-
-def czwarta():
-        print("Funkcja nowa");
-
-def piata():
-    print("1232132");
-
 def start_game():
     random_number = int(random.randint(1, 10))
     print("Hello traveler! Welcome to the game of guesses!")
