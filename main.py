@@ -17,9 +17,10 @@ def nowa_funkcja():
 
 def nowa_funkcja2():
     print("Funkcja domek   ");
+    print("");
 
 def nowa_funkcja3():
-    print("Funkcja cos");
+    print("Funkcja nowa funkcja 3 print");
 
 def nowa_funkcja4():
     print("Funkcja nowa");
