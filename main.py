@@ -12,6 +12,10 @@ def show_score():
         print("The current high score is {} attempts".format(min(attempts_list)))
 
 
+def nowa_funkcja():
+    print("Funkcja nowa");
+
+
 def start_game():
     random_number = int(random.randint(1, 10))
     print("Hello traveler! Welcome to the game of guesses!")
