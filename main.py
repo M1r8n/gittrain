@@ -21,6 +21,9 @@ def nowa_funkcja2():
 def nowa_funkcja3():
     print("Funkcja nowa");
 
+def nowa_funkcja4():
+    print("Funkcja nowa");
+
 
 def start_game():
     random_number = int(random.randint(1, 10))
