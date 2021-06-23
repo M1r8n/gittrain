@@ -15,6 +15,8 @@ def show_score():
 def nowa_funkcja():
     print("Funkcja nowa");
 
+def nowa_funkcja2():
+    print("Funkcja nowa");
 
 def start_game():
     random_number = int(random.randint(1, 10))
