@@ -39,7 +39,7 @@ def start_game():
                     break
             elif int(guess) > random_number:
                 print("It's lower")
-                attempts += 1
+                attempts += 2
             elif int(guess) < random_number:
                 print("It's higher")
                 attempts += 1
