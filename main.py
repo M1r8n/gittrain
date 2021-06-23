@@ -21,6 +21,9 @@ def nowa_funkcja2():
 def trzecia():
     print("Funkcja nowa");
 
+def czwarta():
+        print("Funkcja nowa");
+
 def piata():
     print("1232132");
 
